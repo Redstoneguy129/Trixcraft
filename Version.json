@@ -1,11 +1,13 @@
 { 
         "homepage": "https://www.curseforge.com/minecraft/mc-mods/trixcraft", 
         "promos": { 
-                "1.14.4-latest": "0.1.0.2",
+                "1.14.4-latest": "0.1.0.4",
                 "1.14.4-recommended": "0.1.0.2"
         }, 
         "1.14.4": {
                 "0.1.0.1": "Alpha Build",
-                "0.1.0.2": "Multiplayer Update"
+                "0.1.0.2": "Multiplayer Update",
+				"0.1.0.3": "Added Timeout",
+				"0.1.0.4": "Added Alien Hotkeys"
         }
 }
